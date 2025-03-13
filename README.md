@@ -1,4 +1,4 @@
-## Analyzing AEA RCT Registry
+## Analyzing the AEA RCT Registry
 
 ### Where are the experiments taking place?
 
