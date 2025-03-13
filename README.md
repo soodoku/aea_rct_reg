@@ -1,5 +1,9 @@
 ## Analyzing the AEA RCT Registry
 
+### Start Date of Exp.
+
+![Cumulative Rows](cumulative_rows_by_start_date.png)
+
 ### Where are the experiments taking place?
 
 ```
